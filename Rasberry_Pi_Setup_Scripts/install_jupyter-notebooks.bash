@@ -6,9 +6,4 @@ sudo pip install   jupyter
 sudo apt-get install -y python-seaborn python-pandas ttf-bitstream-vera python-matplotlib
 sudo pip3 install  jupyter
 sudo ipython3 kernelspec install-self
-
-
-
-
-
-
+echo "Done Installing Jupyter"
