@@ -13,4 +13,5 @@ sleep 5
 echo "All done!"
 echo " "
 echo "You can test the Jupyter install by going to \"localhost:8888\" in your web browser"
-read -t 10
+echo "The Default Password is Pi
+read -t 60
