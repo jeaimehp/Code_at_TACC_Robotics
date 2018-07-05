@@ -28,7 +28,7 @@
             },
             "name": "Untangle The Web",
             "type": "url",
-            "url": "http://www.gencyber.as0t0.com/?name=Selena%20Gomez"
+            "url": "http://www.gencyber.as0t0.com"
          }, {
             "date_added": "13175274253898717",
             "id": "13",
@@ -37,7 +37,7 @@
             },
             "name": "Jupyter Notebooks",
             "type": "url",
-            "url": "http://localhost:8888/tree?"
+            "url": "http://localhost:8888"
          } ],
          "date_added": "13175232776384995",
          "date_modified": "13175274253898717",
