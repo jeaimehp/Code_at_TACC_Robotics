@@ -1,0 +1,57 @@
+{
+   "checksum": "d278fcdebf9d54b71e60a1e86dd9f6af",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13175232884296341",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13175232884301268"
+            },
+            "name": "Texas Advanced Computing Center",
+            "type": "url",
+            "url": "https://www.tacc.utexas.edu/"
+         }, {
+            "date_added": "13175232979426235",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13175232979426717"
+            },
+            "name": "Cisco - Global Home Page",
+            "type": "url",
+            "url": "https://www.cisco.com/"
+         }, {
+            "date_added": "13175232831436792",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13175233173051480"
+            },
+            "name": "Untangle The Web",
+            "type": "url",
+            "url": "http://www.gencyber.as0t0.com/?name=Selena%20Gomez"
+         } ],
+         "date_added": "13175232776384995",
+         "date_modified": "13175233039311770",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13175232776385016",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13175232776385023",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
