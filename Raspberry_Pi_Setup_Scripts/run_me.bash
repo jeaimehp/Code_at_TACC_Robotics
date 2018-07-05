@@ -13,5 +13,8 @@ sleep 5
 echo "All done!"
 echo " "
 echo "You can test the Jupyter install by going to \"localhost:8888\" in your web browser"
-echo "The Default Password is Pi
+echo "The Default Password is pi"
+echo " "
+echo "Installing Wireshark"
+$SCRIPTS_FROM/install_wireshark.bash
 sleep 30
