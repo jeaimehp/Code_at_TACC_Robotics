@@ -17,4 +17,10 @@ echo "The Default Password is pi"
 echo " "
 echo "Installing Wireshark"
 $SCRIPTS_FROM/install_wireshark.bash
+echo " "
+echo "Making PCAPS Folder on Desktop"
+tar -xvf $SCRIPTS_FROM/Security/wireshark-pcaps.tar.gz -C /home/pi/Desktop
+echo " "
+echo "Adding Bookmarks"
+cp $SCRIPTS_FROM/Security/Bookmarks /home/pi/.config/chromium/Default/Bookmarks
 sleep 30
