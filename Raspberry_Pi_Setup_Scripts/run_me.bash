@@ -24,4 +24,7 @@ echo " "
 echo "Adding Bookmarks"
 mkdir -p /home/pi/.config/chromium/Default/
 cp $SCRIPTS_FROM/Security/Bookmarks /home/pi/.config/chromium/Default/Bookmarks
+echo " "
+echo "Install mpack"
+sudo apt-get install mpack
 sleep 30
