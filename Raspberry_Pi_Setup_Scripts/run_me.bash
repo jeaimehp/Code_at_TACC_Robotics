@@ -22,5 +22,6 @@ echo "Making PCAPS Folder on Desktop"
 tar -xvf $SCRIPTS_FROM/Security/wireshark-pcaps.tar.gz -C /home/pi/Desktop
 echo " "
 echo "Adding Bookmarks"
+mkdir -p /home/pi/.config/chromium/Default/
 cp $SCRIPTS_FROM/Security/Bookmarks /home/pi/.config/chromium/Default/Bookmarks
 sleep 30
