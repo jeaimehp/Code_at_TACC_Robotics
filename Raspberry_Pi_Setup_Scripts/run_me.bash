@@ -36,6 +36,11 @@ sudo pip install numpy
 sudo pip install pandas
 sudo pip install plotly
 echo " "
+echo "Download Connections Git Repo - N. Freed"
+cd $SCRIPTS_FROM
+cd ..
+git clone https://github.com/nataliefreed/connected-scripts.git
+echo " "
 echo "All done!"
 echo "Later you should run "sudo apt-get upgrade -y;sudo apt-get update -y" 
 sleep 30
