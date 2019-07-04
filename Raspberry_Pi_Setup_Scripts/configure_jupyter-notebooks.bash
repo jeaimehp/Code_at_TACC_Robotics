@@ -1,5 +1,6 @@
 #!/bin/bash
 echo "Doing Some configuring"
+jupyter notebook --generate-config
 sudo apt-get install expect -y
 sleep 5
 /usr/local/bin/jupyter notebook --generate-config
